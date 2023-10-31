@@ -930,18 +930,21 @@ a:hover {
 .portfolio-filter button {
   border: none;
   outline: none;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid #ffffff;
   background: transparent;
   display: inline-block;
   font-size: 16px;
   padding: 6px 20px;
   font-weight: 700;
   color: #ffffff;
+  border-radius: 100px 1000px 100px;
   transition: 0.3s all;
 }
 .portfolio-filter button.active {
+  background: #113874;
   border: 1px solid #113874;
-  color: #113874;
+  border-radius: 100px 1000px 100px;
+  color: #ffffff;
 }
 
 .portfolio-items-wrapper .mix {
