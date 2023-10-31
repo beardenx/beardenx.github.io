@@ -1271,23 +1271,33 @@ a:hover {
 ==================================================================*/
 .note {
   background-color: #292F36;
-  border: 1px solid #4e595f;
 }
 
 .post-block {
   background-color: #113874;
   margin-bottom: 10px;
   text-align: center;
+  
 }
+
+/* Adding hover effect */
+.post-block:hover {
+  background-color: #5c7eb1;  /* Change to your desired hover color */
+}
+
 .post-block .content {
   padding: 7px;
-
 }
+
 .post-block .content h3 {
   margin: 0 0 6px;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 1.5;
   text-transform: capitalize;
+}
+
+.post-block .content h3:hover {
+  color: white;
 }
 
 .note .media-wrapper {
