@@ -1272,12 +1272,13 @@ a:hover {
 }
 
 .post-block {
-  background-color: #292F36;
-  margin-bottom: 5px;
+  background-color: #113874;
+  margin-bottom: 10px;
   text-align: center;
 }
 .post-block .content {
-  padding: 30px;
+  padding: 7px;
+
 }
 .post-block .content h3 {
   margin: 0 0 6px;
