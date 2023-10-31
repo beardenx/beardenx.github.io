@@ -575,7 +575,7 @@ a:hover {
 
 .hero-area {
   background-size: cover;
-  height: 70vh;
+  height: 100vh;
   position: relative;
   display: flex;
   justify-content: center;
@@ -1272,20 +1272,15 @@ a:hover {
 
 .post-block {
   background-color: #292F36;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   text-align: center;
-  width: auto;
-  border-top-left-radius: 100px;
-  border-top-right-radius: 100px;
-  border-bottom-left-radius: 100px;
-  border-bottom-right-radius: 100px;
 }
 .post-block .content {
-  padding: 10px;
+  padding: 30px;
 }
 .post-block .content h3 {
   margin: 0 0 6px;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1301,7 +1296,7 @@ a:hover {
 }
 
 .all-post {
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 /*=================================================================
