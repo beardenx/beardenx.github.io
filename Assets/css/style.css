@@ -94,7 +94,7 @@ a:hover {
   background-color: #113874;
   border-color: #113874 !important;
   color: #fff;
-  border-radius: 100px 1000px 100px;
+  border-radius: 100px 100px;
   transition: all 0.3s ease-in 0s;
   width: fit-content;
 }
@@ -937,13 +937,13 @@ a:hover {
   padding: 6px 20px;
   font-weight: 700;
   color: #ffffff;
-  border-radius: 100px 1000px 100px;
+  border-radius: 100px 100px;
   transition: 0.3s all;
 }
 .portfolio-filter button.active {
   background: #113874;
   border: 1px solid #113874;
-  border-radius: 100px 1000px 100px;
+  border-radius: 100px 100px;
   color: #ffffff;
 }
 
@@ -1277,7 +1277,7 @@ a:hover {
   background-color: #113874;
   margin-bottom: 10px;
   text-align: center;
-  
+  border-radius: 25px 25px;
 }
 
 /* Adding hover effect */
