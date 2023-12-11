@@ -29,7 +29,7 @@ h5,
 h6 {
   font-weight: 1000;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #ffffff;
 }
 
 p {
@@ -236,7 +236,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #113874;
+  color: #d5d5d5;
 }
 
 .btn-main {
@@ -1269,9 +1269,7 @@ a:hover {
 /*=================================================================
   Latest Posts
 ==================================================================*/
-.note {
-  background-color: #292F36;
-}
+
 
 .post-block {
   background-color: #113874;
@@ -1282,33 +1280,20 @@ a:hover {
 
 /* Adding hover effect */
 .post-block:hover {
-  background-color: #5c7eb1;  /* Change to your desired hover color */
+  background-color: #113874;  /* Change to your desired hover color */
 }
 
 .post-block .content {
-  padding: 7px;
+  padding: 5px;
 }
 
 .post-block .content h3 {
-  margin: 0 0 6px;
+  margin: 0 0 0px;
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 2;
   text-transform: capitalize;
 }
 
-.post-block .content h3:hover {
-  color: white;
-}
-
-.note .media-wrapper {
-  border-bottom: 1px solid #4e595f;
-}
-
-.note .excerpt h3 {
-  font-size: 20px;
-  line-height: 1.5;
-  text-transform: capitalize;
-}
 
 .all-post {
   margin-top: 50px;
