@@ -15,7 +15,8 @@ html {
 
 body {
   background-color: #1a1919;
-  font-family: "Anaheim", sans-serif;
+  font-family: 'Space Mono';
+
   color: #1a1919;
   -webkit-font-smoothing: antialiased;
   position: relative;
@@ -28,12 +29,16 @@ h4,
 h5,
 h6 {
   font-weight: 1000;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Space Mono';
   color: #ffffff;
 }
 
 p {
   font-family: "Quattrocento Sans", sans-serif;
+}
+
+a{
+
 }
 
 /*=================================================================
