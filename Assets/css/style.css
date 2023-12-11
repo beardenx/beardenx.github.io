@@ -15,8 +15,7 @@ html {
 
 body {
   background-color: #1a1919;
-  font-family: 'Space Mono';
-
+  font-family: "Anaheim", sans-serif;
   color: #1a1919;
   -webkit-font-smoothing: antialiased;
   position: relative;
@@ -29,7 +28,7 @@ h4,
 h5,
 h6 {
   font-weight: 1000;
-  font-family: 'Space Mono';
+  font-family: "Quattrocento Sans", sans-serif;
   color: #ffffff;
 }
 
@@ -37,9 +36,6 @@ p {
   font-family: "Quattrocento Sans", sans-serif;
 }
 
-a{
-
-}
 
 /*=================================================================
   Basic Setup
